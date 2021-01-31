@@ -1,1 +1,2 @@
 # stack
+implementation of stack 
