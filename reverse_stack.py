@@ -43,7 +43,7 @@ print("After reversing : ")
 s.display()
 
 
-""" 
+# Python program to implement Reversed a stck using recursion
 class Stack:
     def __init__(self):
         self.items = []
@@ -87,4 +87,3 @@ s.display()
 reverse_stack(s)
 print('After reversing:')
 s.display()
-"""
